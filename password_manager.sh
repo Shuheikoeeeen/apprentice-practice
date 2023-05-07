@@ -36,7 +36,7 @@ while true; do
             echo "ファイルを元の状態に戻しました。"
 
         else
-          echo "そのサービスは登録されていません。"
+          echo "サービス名が間違っています。"
         fi
 
     elif [ "${REPLY}" = "Exit" ]; then
