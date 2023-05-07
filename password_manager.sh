@@ -12,7 +12,7 @@ while true; do
         read -p "パスワードを入力してください：" password
 
         echo "${service_name}:${user_name}:${password}" >> "${FILE_PATH}"
-        echo "パスワードの追加は成功しました！"
+        echo "パスワードの追加は成功しました"
 
         read -s -p "暗号化のためにパスワードを入力してください：" secret_password
         gpg --batch --yes --passphrase "${secret_password}" --cipher-algo AES256 --output "${FILE_PATH}" --symmetric "${FILE_PATH}"
