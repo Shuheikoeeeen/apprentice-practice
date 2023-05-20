@@ -18,7 +18,7 @@
 
 | カラム名 | データ型 | NULL | キー|初期値 |AUTO INCREMENT|
 | --- | --- |--- |--- |--- |--- |
-| id | INT UNSIGNED | | PRIMARY| AUTO INCREMENT| 
+| id | INT UNSIGNED | | PRIMARY|| AUTO INCREMENT| 
 | name |VARCHAR(30)|
 | create_at |TIMESTAMP|
 | update_at |TIMESTAMP|
@@ -79,7 +79,7 @@
 
 | カラム名 | データ型 | NULL | キー|初期値 |AUTO INCREMENT|
 | --- | --- |--- |--- |--- |--- |
-| id | INT UNSIGNED | |PRIMARY|AUTO INCREMENT | 
+| id | INT UNSIGNED | |PRIMARY||AUTO INCREMENT | 
 | channel_id |INT UNSIGNED|
 | episode_id |INT UNSIGNED||INDEX|
 | air_date |DATE||
