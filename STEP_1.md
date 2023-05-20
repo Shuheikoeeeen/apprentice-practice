@@ -36,7 +36,7 @@
 
 
 
-テーブル：programs_genres
+テーブル：program_genres
 
 
 | カラム名 | データ型 | NULL | キー|初期値 |AUTO INCREMENT|
@@ -67,11 +67,13 @@
 | --- | --- |--- |--- |--- |--- |
 | episode_id | INT UNSIGNED | |PRIMARY||AUTO INCREMENT | 
 | series_id |INT UNSIGNED||INDEX|
-| episode_no |TINYINT UNSIGNED|||
+| episode_no |TINYINT UNSIGNED|YES||
 | title |VARCHAR(100)|YES|
-| details |TEXT||
+| details |TEXT|YES|
 | play_time |FLOAT|||
 | published_date |DATE||
+| create_at |TIMESTAMP|
+| update_at |TIMESTAMP|
 
 - 外部キー制約：series_id に対して、seriesテーブルのid カラムから設定
 
