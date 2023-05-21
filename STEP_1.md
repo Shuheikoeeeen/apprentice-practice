@@ -92,5 +92,7 @@
 
 - 外部キー制約：channel_id,episode_idに対して、それぞれchannelsテーブル、episodesテーブルのidカラムから設定
 
+- ER図
+
 ![ER図](https://github.com/Shuheikoeeeen/apprentice-practice/assets/127010682/0c67544b-18c0-46cc-b2f4-8c737e9d442f)
 
