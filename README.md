@@ -16,7 +16,7 @@
 
 1. データベースを構築します
 2. ステップ1で設計したテーブルを構築します
-3. サンプルデータを入れます。サンプルデータはご自身で作成ください（ChatGPTを利用すると比較的簡単に生成できます）
+3. サンプルデータを入れます。
 
 詳細についてはSTEP2の回答をご覧ください。
 
@@ -24,9 +24,9 @@
 
 #### STEP3
 - STEP3のSQL文とその出力結果です。
-[STEP3のSQL文](https://github.com/Shuheikoeeeen/apprentice-practice/blob/quest/STEP_3.md),
+- [STEP3のSQL文](https://github.com/Shuheikoeeeen/apprentice-practice/blob/quest/STEP_3.md)
 
-[STEP3の出力結果](https://github.com/Shuheikoeeeen/apprentice-practice/tree/quest/STEP3_answer)
+- [STEP3の出力結果](https://github.com/Shuheikoeeeen/apprentice-practice/tree/quest/STEP3_answer)
 
 -----
 
