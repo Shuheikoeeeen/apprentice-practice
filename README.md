@@ -18,6 +18,8 @@
 2. ステップ1で設計したテーブルを構築します
 3. サンプルデータを入れます。サンプルデータはご自身で作成ください（ChatGPTを利用すると比較的簡単に生成できます）
 
+詳細についてはSTEP2の回答をご覧ください。
+
 [STEP2回答](https://github.com/Shuheikoeeeen/apprentice-practice/blob/quest/STEP_2.md)
 
 #### STEP3
