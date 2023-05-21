@@ -24,7 +24,8 @@
 
 #### STEP3
 - STEP3のSQL文とその出力結果です。
-[STEP3のSQL文](https://github.com/Shuheikoeeeen/apprentice-practice/blob/quest/STEP_3.md)
+[STEP3のSQL文](https://github.com/Shuheikoeeeen/apprentice-practice/blob/quest/STEP_3.md),
+
 [STEP3の出力結果](https://github.com/Shuheikoeeeen/apprentice-practice/tree/quest/STEP3_answer)
 
 -----
